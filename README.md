@@ -1,4 +1,3 @@
-## Hi there 👋
 
 Currently a student at NTNU 
 <!--
